@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/employee-attrition-prediction.git
+git clone git@github.com:Motaseam-Yousef/employee-attrition.git
 cd employee-attrition-prediction
 ```
 
